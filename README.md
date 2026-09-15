@@ -85,13 +85,6 @@ belajar dari setiap kesalahan yang saya temui.
 
 ---
 
-## 🐍 Aktivitas GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100"/>
-</p>
-
----
 
 <p align="center">
   <i>✨ Terus belajar. Terus berkembang. Terus berkarya. ✨</i>
